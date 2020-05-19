@@ -1,0 +1,12 @@
+{"_id":{"$oid":"5ec389987f60140189baf40a"},"product_id":"01","product_name":"LOVE YOUR SELF: TEAR","quantityInStock":"64","buyPrice":600,"categories_id":1,"picture":"https://o.lnwfile.com/jm3ogi.png"}
+{"_id":{"$oid":"5ec389987f60140189baf40b"},"product_id":"02","product_name":"MAP OF THE SOUL: PERSONA","quantityInStock":"104","buyPrice":560,"categories_id":1,"picture":"https://o.lnwfile.com/qqyx2u.png"}
+{"_id":{"$oid":"5ec389987f60140189baf40c"},"product_id":"03","product_name":"NEO ZONE","quantityInStock":"38","buyPrice":480,"categories_id":2,"picture":"https://cf.shopee.co.th/file/5e2544c79bfcb025105f87005442cc86"}
+{"_id":{"$oid":"5ec389987f60140189baf40d"},"product_id":"04","product_name":"WE ARE SUPERHUMAN","quantityInStock":"56","buyPrice":500,"categories_id":2,"picture":"https://item-shopping.c.yimg.jp/i/l/tower_4901843"}
+{"_id":{"$oid":"5ec389987f60140189baf40e"},"product_id":"05","product_name":"ACTION TO ANSWER","quantityInStock":"72","buyPrice":500,"categories_id":3,"picture":"https://fy.lnwfile.com/otqf8b.jpg"}
+{"_id":{"$oid":"5ec389987f60140189baf40f"},"product_id":"06","product_name":"ALL TO ACTION","quantityInStock":"53","buyPrice":620,"categories_id":3,"picture":"https://cf.shopee.co.th/file/6591261331725f016f85bf4c17d082be"}
+{"_id":{"$oid":"5ec389987f60140189baf410"},"product_id":"07","product_name":"KILL THIS LOVE","quantityInStock":"89","buyPrice":680,"categories_id":4,"picture":"https://cf.shopee.co.th/file/78259672ed150b90a324d64301baac34"}
+{"_id":{"$oid":"5ec389987f60140189baf411"},"product_id":"08","product_name":"SQUARE UP","quantityInStock":"48","buyPrice":580,"categories_id":4,"picture":"https://o.lnwfile.com/44ldqc.png"}
+{"_id":{"$oid":"5ec389987f60140189baf412"},"product_id":"09","product_name":"BLOOM BLOOM","quantityInStock":"36","buyPrice":500,"categories_id":5,"picture":"https://o.lnwfile.com/44ldqc.png"}
+{"_id":{"$oid":"5ec389987f60140189baf413"},"product_id":"10","product_name":"REVEAL","quantityInStock":"98","buyPrice":760,"categories_id":5,"picture":"https://fy.lnwfile.com/eplvbu.jpg"}
+{"_id":{"$oid":"5ec38fdc95ccdc1cee6da2b9"},"product_id":"11","product_name":"LOVE PROM","quantityInStock":"46","buyPrice":670,"categories_id":6,"picture":"https://cf.lnwfile.com/3kw0pi.jpg"}
+{"_id":{"$oid":"5ec3930195ccdc1cee6da457"},"product_id":"12","product_name":"FLOURISHING","quantityInStock":"99","buyPrice":580,"categories_id":7,"picture":"https://cz.lnwfile.com/y6pex2.jpg"}
